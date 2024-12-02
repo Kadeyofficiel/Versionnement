@@ -1,7 +1,7 @@
 Bonjour Ulysse
 <<<<<<< HEAD
 
-Conflit
+Conflit Ulysse
 =======
 Au revoir Ulysse
 >>>>>>> 4d2f7a47676e02ebb55a58cb83841c8653c59ad0
